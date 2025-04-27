@@ -4,6 +4,12 @@ A responsive website that detects and displays your public IP address, approxima
 
 ---
 
+## Screenshot
+
+![Screenshot (72)](https://github.com/user-attachments/assets/265183c6-0b23-435b-9e7e-b56bc96f6df3)
+
+---
+
 ## ✨ Features
 
 - 📍 Detects and displays your current public IP address
