@@ -74,3 +74,40 @@ body {
   th {
     color: #a5d8ff;
   }
+  
+  #map {
+    height: 400px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    margin-top: 1rem;
+  }
+  
+  
+  @media (max-width: 600px) {
+    .controls {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    input#ip-input {
+      width: 100%;
+    }
+  
+    button#ip-search-button {
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+  
+    table {
+      font-size: 0.9rem;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+  
+    .container {
+      padding: 1rem;
+    }
+  }
+  
