@@ -9,5 +9,7 @@ function lookupIP(ip = '') {
             return;
         }
         console.log(data)
+
+        document.getElementById('ip').innerText = data.ip || 'N/A';
     })
 }
