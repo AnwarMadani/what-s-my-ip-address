@@ -24,7 +24,7 @@ A responsive website that detects and displays your public IP address, approxima
 
 ## 🚀 Live Demo
 
-👉 [View the website here](https://anwarmadani.github.io/what-s-my-ip-adress/)
+👉 [View the website here](https://anwarmadani.github.io/what-s-my-ip-address/)
 
 ---
 
